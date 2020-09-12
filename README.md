@@ -1,3 +1,3 @@
 # leaderBoardGads
-### GOOGLE AFRICA DEVELOPER SCHOLARSHIP 2020
-### ABOUT LEADERBOARD IS AN APP THAT SHOW OR DISPLAYS THE TOP 20 LEARNERS  
+### Google Africa Developer Scholarship 2020
+### This is An App that displays top 20 learners in this scholarship 
